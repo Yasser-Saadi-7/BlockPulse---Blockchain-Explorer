@@ -2,7 +2,7 @@
 
 -----
 
-# BlockPulse - Blockchain Explorer 
+# BlockPulse - Blockchain Explorer for MTW Testnet
 
 [](https://reactjs.org/)
 [](https://tailwindcss.com/)
@@ -46,7 +46,7 @@ To run the project locally, follow these steps:
 
 1.  **Clone the Repository:**
     ```sh
-    git clone [https://github.com/BasharHosari/blockpulse.git](https://github.com/Yasser-Saadi-7/BlockPulse---Blockchain-Explorer-for-MTW-Testnet.git)
+    git clone https://github.com/Yasser-Saadi-7/BlockPulse---Blockchain-Explorer.git
     ```
 2.  **Navigate to the Project Directory:**
     ```sh
