@@ -2,7 +2,7 @@
 
 -----
 
-# BlockPulse - Blockchain Explorer for MTW Testnet
+# BlockPulse - Blockchain Explorer 
 
 [](https://reactjs.org/)
 [](https://tailwindcss.com/)
@@ -23,13 +23,6 @@ The platform offers a wide range of features for both general and technical user
   * **Dark/Light Mode:** Easily switch between display modes for a personalized user experience.
   * **Responsive Design:** Fully compatible with mobile devices, tablets, and desktops.
 
-## 📸 Screenshots
-
-**Dashboard**
-
-**Explore Page for Price Tracking**
-
-**Latest Blocks List**
 
 ## 🛠️ Technologies and Tools
 
